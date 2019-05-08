@@ -6,7 +6,7 @@ To use Design Automation in general, the following steps are needed:
 1. Create the appbundle and test it locally;
 2. Upload the appbundle to the cloud;
 2. Create the activity;
-3. Create the work item;
+3. Create the work item (or more);
 4. Start the job and download the results;
 
 
